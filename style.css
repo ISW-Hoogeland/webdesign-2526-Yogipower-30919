@@ -38,6 +38,9 @@
 
 :root {
    --color1: #111111;
+   --color2: #e30d0d;
+   --color3: #2d7fe3;
+   --color4: #189b09;
 }
 
 body {
@@ -52,17 +55,24 @@ body {
 
 header {
   grid-area: header;
-  background-color: var(--kleur1);
+  background-color: var(--color1);
 }
 
 nav {
    grid-area: nav;
+   background-color: var(--color2)
 }
 
 main {
    grid-area: main;
+   background-color: var(--color3)
 }
 
 footer {
    grid-area: footer;
+   background-color: var(--color4)
+}
+
+h1 {
+   text-align: center;
 }
