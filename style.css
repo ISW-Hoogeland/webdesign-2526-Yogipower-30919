@@ -37,10 +37,12 @@
 /* add your css here, feel free to use comments and order them logically for better readability */
 
 :root {
-   --color1: #111111;
-   --color2: #e30d0d;
+   --color1: #70d6da83;
+   --color2: #000000;
    --color3: #2d7fe3;
    --color4: #189b09;
+   --h1textcolor: #000000;
+   --h2textcolor: #ffffff;
 }
 
 body {
@@ -75,4 +77,10 @@ footer {
 
 h1 {
    text-align: center;
+   color: var(--h1textcolor);
+}
+
+h2 {
+   text-align: center;
+   color: var(--h2textcolor)
 }
