@@ -68,6 +68,20 @@ nav {
    background-color: var(--color2)
 }
 
+nav ul {
+list-style: none;
+display: flex;
+gap: 100px;
+}
+
+nav a {
+   text-decoration: none;
+}
+
+nav a:hover {
+   text-decoration: underline;
+}
+
 main {
    grid-area: main;
    background-color: var(--color3)
