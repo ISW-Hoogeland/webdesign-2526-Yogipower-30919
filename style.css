@@ -37,15 +37,15 @@
 /* add your css here, feel free to use comments and order them logically for better readability */
 
 :root {
-   --color1: #6de0e483;
-   --color2: #000000;
-   --color3: #ffffff;
-   --color4: #c4c4c4;
-   --h1textcolor: #000000;
+   --color1: #010028;
+   --color2: #501275;
+   --color3: #29C0F5;
+   --color4: #0661B0;
+   --h1textcolor: #ffffff;
    --h2textcolor: #ffffff;
    --h3textcolor: #000000;
    --h4textcolor: #ffffff;
-   --linkstextcolor: #00ffe1;
+   --linkstextcolor: #29C0F5;
    
 }
 
