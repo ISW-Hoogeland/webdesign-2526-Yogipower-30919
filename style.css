@@ -131,6 +131,14 @@ h4 {
    font-family: "roboto", sans-serif;
 }
 
-main ul {
+p {
+   text-align: start;
+   color: var(--h3textcolor);
+   font-family: "roboto", sans-serif;
+   font-weight: 500;
+}
+
+.afbeeldingen {
    display: flex;
+   gap: 20px
 }
