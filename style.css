@@ -97,7 +97,7 @@ nav a:hover {
 
 main {
    grid-area: main;
-   background-color: var(--color3)
+   background: linear-gradient(135deg, var(--color2), var(--color4));
 }
 
 footer {
@@ -129,4 +129,8 @@ h4 {
    text-align: start;
    color: var(--h4textcolor);
    font-family: "roboto", sans-serif;
+}
+
+main ul {
+   display: flex;
 }
