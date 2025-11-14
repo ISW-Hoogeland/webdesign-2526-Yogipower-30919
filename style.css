@@ -113,9 +113,10 @@ h1 {
 }
 
 h2 {
-   text-align: center;
+   text-align: start;
    color: var(--h2textcolor);
    font-size: 20px;
+   font-family: "anta", sans-serif;
 }
 
 h3 {
@@ -140,5 +141,5 @@ p {
 
 .afbeeldingen {
    display: flex;
-   gap: 20px
+   gap: 15px
 }
