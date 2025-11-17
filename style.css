@@ -130,6 +130,7 @@ h4 {
    text-align: start;
    color: var(--h4textcolor);
    font-family: "roboto", sans-serif;
+   font-size: 14px;
 }
 
 p {
